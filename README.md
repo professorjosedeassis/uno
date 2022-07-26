@@ -1,5 +1,3 @@
-<a href="https://github.com/professorjosedeassis/uno/raw/master/led.apk">linkapk</a>
-
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/uno)
 
 # Projeto UNO
