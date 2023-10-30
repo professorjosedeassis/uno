@@ -7,7 +7,7 @@ Este projeto usa o Arduino para ativar ou desativar a corrente elétrica (combus
 
 ![bar progress](https://github.com/professorjosedeassis/node/blob/main/img/bar.png)
 
-Eem produção...
+Em produção...
 
 ### Autor
 Professor José de Assis
